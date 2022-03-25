@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/3996f33bcfdada41a93a9.jpg">
+  <img src="https://telegra.ph/file/60a2a690e3dd5c363f93e.jpg">
 </p>
 
 ## <p align="center">DEPLOY TO HEROKU</p>
